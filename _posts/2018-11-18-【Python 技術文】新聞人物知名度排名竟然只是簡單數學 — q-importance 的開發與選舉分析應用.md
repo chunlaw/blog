@@ -4,6 +4,10 @@ date: 2018-11-18 22:15:38 +0800
 categories: [Technology, Graph]
 tags: [closeness centrality, q-importance, python]     # TAG names should always be lowercase
 math: true
+image: 
+  path: /posts/q-importance.jpeg
+  width: 600
+  alt: 人物關係圖
 ---
 
 > 本文章旨在比較 Jekyll 與 [Medium](https://medium.com/@chunlaw/python-%E6%8A%80%E8%A1%93%E6%96%87-%E6%96%B0%E8%81%9E%E4%BA%BA%E7%89%A9%E7%9F%A5%E5%90%8D%E5%BA%A6%E6%8E%92%E8%A1%8C%E9%96%8B%E7%99%BC%E8%88%87%E9%81%B8%E8%88%89%E5%88%86%E6%9E%90%E6%87%89%E7%94%A8-7dac37a12229) 的排版能力，證明 Jekyll 較為優勝
@@ -11,9 +15,6 @@ math: true
 
 > [傳送門](https://docs.google.com/spreadsheets/d/12Z43PHahwAj7-H99sLu_7MZC0mwE9aZClWFOC4Fyscg/edit?usp=sharing)：更新至 2018年11月14日 的 q-importance 分數，有興趣可自行複製研究
 {: .prompt-tip}
-
-![人物關係圖](/posts/q-importance.jpeg){: width="400"}
-_人物關係圖_
 
 在街工的歲月裡歷經兩場立會新西選舉，2012 年與 2016 年街工分別派出梁耀忠和黃潤達出選，結果是 2012 年梁耀忠得票 43,799，2016年黃潤達得票 20,974，相差 22,825 票。2016年的內外部檢討，除了由前輩老掉牙地說地區工作不夠好，[批評雷動失調](https://www.hk01.com/%E7%AB%8B%E6%B3%95%E6%9C%83%E9%81%B8%E8%88%89/41665/%E5%8D%9A%E8%A9%95-%E7%AB%8B%E6%9C%83%E9%81%B8%E5%BE%8C-%E5%85%88%E8%A9%95%E9%9B%B7%E5%8B%95%E8%A8%88%E5%8A%83-%E9%9B%A2%E5%9C%B0%E4%B8%8D%E9%80%8F%E6%98%8E)，[馮檢基空降亂入](https://www.inmediahk.net/node/1050281a)外，亦有提及黃潤達的知名度不足。然而，知名度的比較和提昇，卻一直因缺乏客觀的度量衡以供檢討，令團體內部隱約把追求知名度與激烈行動換曝光劃上等號，無助討論更製造分化。
 
