@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 > Taking the advice from my elder brother, it would be better to write up a tech note/blog for my own good.
