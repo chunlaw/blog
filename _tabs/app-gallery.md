@@ -18,6 +18,7 @@ order: 4
 ## HK Address Parser
 
 ![HK Address Parser](https://g0vhk-io.github.io/HKAddressParser/og-image.png){: .normal width="200"}
+
 [HK Address Parser](https://g0vhk-io.github.io/HKAddressParser/#/) is a address standardizing tool with geocoding supported. I have written a prototype to prioritize the candidates given by [OGCIO](https://data.gov.hk/tc-data/dataset/hk-ogcio-st_div_02-als) and [Hong Kong Geodata Store](https://geodata.gov.hk/gs/locationSearchAPI?).
 
 ---
@@ -25,6 +26,7 @@ order: 4
 ## Voter Registraion Toolkit
 
 ![Voter Registration 2020](https://chunlaw.github.io/voter-registration/assets/banner.png){: .normal width="200"}
+
 [Voter Registraion Toolkit](https://chunlaw.github.io/voter-registration) is a e-form generation toolkit for voter registration in 2020. However, as the electoral system is now perfect (in Chinese 完善, "improved" in HKSAR's tone), voter registration is no longer necessary. Give thanks to the National Security Law.
 
 ---
@@ -40,4 +42,5 @@ order: 4
 ## 粵讀
 
 ![粵讀](/apps/yuedict.png){: .normal width="200"}
+
 [粵讀](https://yuedict.app/) is a cantonese dictionary focusing on the pronunciation. It is targeted to integrate with eBook platform and ease the dictionary checking during reading.
