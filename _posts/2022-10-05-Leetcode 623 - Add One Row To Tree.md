@@ -5,7 +5,7 @@ categories: [Leetcode, Medium]
 tags: [tree, recursion]     # TAG names should always be lowercase
 ---
 
-Okay, it is binary tree again. Taking recursion as the first approach, it is very easy to override the original function signature by adding a parameter `side` defining whether the current node should be extended in left or right (i.e., 0 => left, 1 => right). The rest is trivial.
+Okay, [it](https://leetcode.com/problems/add-one-row-to-tree/) is binary tree again. Taking recursion as the first approach, it is very easy to override the original function signature by adding a parameter `side` defining whether the current node should be extended in left or right (i.e., 0 => left, 1 => right). The rest is trivial.
 
 ```typescript
 /**
