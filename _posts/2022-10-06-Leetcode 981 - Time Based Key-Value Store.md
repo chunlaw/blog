@@ -5,9 +5,9 @@ categories: [Leetcode, Medium]
 tags: [binary search, hash table]     # TAG names should always be lowercase
 ---
 
-The titile of the [question](https://leetcode.com/problems/time-based-key-value-store/) is clearly show a dictionary is required. As stated in the **Constraints**, the `set` function will give `timestamp` strictly increasing, which implies that a sorted array could be easily drawn. 
+The titile of the [question](https://leetcode.com/problems/time-based-key-value-store/) clearly shows a key-value dictionary is required. As stated in the **Constraints**, the `set` function will give strictly increasing `timestamp`, implying a sorted array could be easily drawn. 
 
-Based on the intuitive data structure, the rest is applying [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm).
+Based on the intuitive data structure above, [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm) against the timestamp solves the question .
 
 ```typescript
 class TimeMap {
