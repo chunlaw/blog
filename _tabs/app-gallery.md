@@ -15,6 +15,14 @@ order: 4
 
 ---
 
+# EDGITOR - Graph Editor
+
+![EDGITOR screenshot](/apps/edgitor.png){: .normal width="200"}
+
+[EDGITOR](https://edgitor.chunlaw.io) is a vertex-edge graph editor supporting both undirected and directed graph. Also, the tool can assist user the rearrange the graph in a circle, grid or tree liked structure. 
+
+---
+
 ## HK Address Parser
 
 ![HK Address Parser](https://g0vhk-io.github.io/HKAddressParser/og-image.png){: .normal width="200"}
