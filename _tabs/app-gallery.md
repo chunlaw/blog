@@ -15,6 +15,14 @@ order: 4
 
 ---
 
+# Marquee - 應援板
+
+![Marquee screenshot](/apps/marquee.png){: .normal width="200"}
+
+[Marquee](https://marquee.chunlaw.io) is a marquee app to display slogan with full utilization of your mobile screen.
+
+---
+
 # EDGITOR - Graph Editor
 
 ![EDGITOR screenshot](/apps/edgitor.png){: .normal width="200"}
