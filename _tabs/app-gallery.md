@@ -14,6 +14,13 @@ order: 4
 [HKBUS.APP](https://hkbus.app) is a fully open source bus eta [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_app) written in React. 
 
 ---
+## KYRHK - 人人有權
+
+![Know Your Rights HK](/apps/kyrhk.png){: .normal width="300"}
+
+[KYRHK](https://kyrhk.civicsight.org/) is here to help you understand and exercise your legal rights.
+
+---
 
 # Marquee - 應援板
 

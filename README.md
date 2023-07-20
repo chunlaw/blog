@@ -21,6 +21,12 @@ In order to save your time, and to prevent you from missing some files when copy
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
 
+## Serve
+
+```
+$ jekyll serve --port 9001
+```
+
 ## Installation
 
 [**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
