@@ -67,3 +67,11 @@ order: 4
 ![粵讀](/apps/yuedict.png){: .normal width="200"}
 
 [粵讀](https://yuedict.app/) is a cantonese dictionary focusing on the pronunciation. It is targeted to integrate with eBook platform and ease the dictionary checking during reading.
+
+---
+
+## ETA Board
+
+![ETA Board](/apps/eta-board.jpeg){: .normal width="200}
+
+[ETA Board](https://eta-board.chunlaw.io/) is an app to monitor public traffic ETA in Hong Kong. Someone might want to check whether the scheduled bus is delayed through the public bus ETA API provided by data.gov.hk. 
