@@ -23,7 +23,7 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 
 ## Serve
 
-```
+```sh
 $ jekyll serve --port 9001
 ```
 
@@ -33,7 +33,7 @@ $ jekyll serve --port 9001
 
 Then clone it to your local machine and run:
 
-```
+```sh
 $ bundle
 ```
 
