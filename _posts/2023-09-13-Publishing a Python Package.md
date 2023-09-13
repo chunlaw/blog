@@ -44,7 +44,7 @@ The core tool [setuptools](https://pypi.org/project/setuptools/) should be inclu
 
 ## 2. Directory structure
 
-Below directory structure depicts the files required for publishing, referening [](https://github.com/chunlaw/cantonese-romanisation/tree/pypi)
+Below directory structure depicts the files required.
 
 ```sh
 .
@@ -133,7 +133,7 @@ $ twine upload dist/*                 # publishing
 
 ## 6. OPTIONAL - Testing
 
-The `testing.py` is used to examine the correctness of the package. Content is as below
+The `testing.py` is used to examine the correctness of the package. Content is as below,
 
 ```python
 from cantoroman import Cantonese  
