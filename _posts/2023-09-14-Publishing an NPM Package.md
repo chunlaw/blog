@@ -121,6 +121,8 @@ export function sayHello(): void {
 }
 ```
 
+You may use run `npx ts-node src/index.ts` in your terminal to check if the program runs properly or not. In the above case, there should be empty output as there is no function call to `sayHello()`.
+
 The content of `./test/index.test.ts` is as below,
 
 ```typescript
@@ -130,6 +132,15 @@ import { sayHello } from "../src/index"
 test('expected Hello', () => {
   expect(sayHello()).toBe("Hello")
 })
+```
+
+Don't forget to config the jest by `jest.config.js` as below,
+
+```javascript
+module.exports = {
+  preset: 'ts-jest',
+  testEnvironment: 'node',
+};
 ```
 
 ## 5. Setup scritps
