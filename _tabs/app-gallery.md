@@ -14,11 +14,19 @@ order: 4
 [HKBUS.APP](https://hkbus.app) is a fully open source bus eta [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_app) written in React. 
 
 ---
-## KYRHK - 人人有權
 
-![Know Your Rights HK](/apps/kyrhk.png){: .normal width="300"}
+## Journey Heatmap
 
-[KYRHK](https://kyrhk.civicsight.org/) is here to help you understand and exercise your legal rights.
+![journey time screenshot](https://jt.hkbus.app/jt-share.png){: .normal width="200"}
+
+[Journey Time Heatmap](https://jt.hkbus.app) is a tool to visualize the point-to-point journey time through the public transport.
+
+---
+## Wing Font
+
+![Wing font](https://wing-fonts.chunlaw.io/share.png){: .normal width="24"}
+
+[Wing Font](https://wing-fonts.chunlaw.io) is a tool to annotate each Chinese character. Pingyim and cangjie are some example use cases. I am planning to expand the annotation to support Hak-kâ, Teochew, and even more.
 
 ---
 
@@ -75,3 +83,13 @@ order: 4
 ![ETA Board](/apps/eta-board.jpeg){: .normal width="200}
 
 [ETA Board](https://eta-board.chunlaw.io/) is an app to monitor public traffic ETA in Hong Kong. Someone might want to check whether the scheduled bus is delayed through the public bus ETA API provided by data.gov.hk. 
+
+---
+
+## KYRHK - 人人有權
+
+![Know Your Rights HK](/apps/kyrhk.png){: .normal width="300"}
+
+[KYRHK](https://kyrhk.civicsight.org/) is here to help you understand and exercise your legal rights.
+
+---
