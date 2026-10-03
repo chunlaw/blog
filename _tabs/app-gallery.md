@@ -24,9 +24,9 @@ order: 4
 ---
 ## Wing Font
 
-![Wing font](https://wing-fonts.chunlaw.io/share.png){: .normal width="200"}
+![Wing font](https://wing-font.chunlaw.io/share.png){: .normal width="200"}
 
-[Wing Font](https://wing-fonts.chunlaw.io) is a tool to annotate each Chinese character. Pingyim and cangjie are some example use cases. I am planning to expand the annotation to support Hak-kâ, Teochew, and even more.
+[Wing Font](https://wing-font.chunlaw.io) is a tool to annotate each Chinese character. Pingyim and cangjie are some example use cases. I am planning to expand the annotation to support Hak-kâ, Teochew, and even more.
 
 ---
 
