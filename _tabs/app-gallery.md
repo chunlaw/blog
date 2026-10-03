@@ -31,6 +31,14 @@ order: 4
 
 ---
 
+## A&E Waiting Time - 急症等候時間表
+
+![A&E Waiting Time](https://ane-hk.chunlaw.io/share.png){: .normal width="200"}
+
+[急症等候時間表](https://ane-hk.chunlaw.io) shows the waiting time of the accident and emergency departments of public hospitals in Hong Kong on a map, with the changes over the past 48 hours and a week ago for reference.
+
+---
+
 ## Marquee - 應援板
 
 ![Marquee screenshot](/apps/marquee.png){: .normal width="200"}
